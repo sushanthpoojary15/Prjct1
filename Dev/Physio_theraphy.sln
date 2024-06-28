@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H2H.Physiotherapy.API", "H2H.Physiotherapy.API\H2H.Physiotherapy.API.csproj", "{702FEA6A-15DE-450F-8B06-49C37096D863}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H2H.Physiotherapy.Data", "H2H.Physiotherapy.Data\H2H.Physiotherapy.Data.csproj", "{99DACA29-AA10-4792-9DBE-D2767888D2C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H2H.Physiotherapy.Common", "H2H.Physiotherapy.Common\H2H.Physiotherapy.Common.csproj", "{83A33EBF-900D-460B-8E4B-779161FAE5E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H2H.Physiotherapy.Services", "H2H.Physiotherapy.Services\H2H.Physiotherapy.Services.csproj", "{361B0512-D2F8-4ADD-B6D8-DEA5F0C17511}"
+EndProject
+Global	
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702FEA6A-15DE-450F-8B06-49C37096D863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702FEA6A-15DE-450F-8B06-49C37096D863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702FEA6A-15DE-450F-8B06-49C37096D863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702FEA6A-15DE-450F-8B06-49C37096D863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DACA29-AA10-4792-9DBE-D2767888D2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DACA29-AA10-4792-9DBE-D2767888D2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DACA29-AA10-4792-9DBE-D2767888D2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DACA29-AA10-4792-9DBE-D2767888D2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A33EBF-900D-460B-8E4B-779161FAE5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A33EBF-900D-460B-8E4B-779161FAE5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A33EBF-900D-460B-8E4B-779161FAE5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A33EBF-900D-460B-8E4B-779161FAE5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361B0512-D2F8-4ADD-B6D8-DEA5F0C17511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361B0512-D2F8-4ADD-B6D8-DEA5F0C17511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361B0512-D2F8-4ADD-B6D8-DEA5F0C17511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361B0512-D2F8-4ADD-B6D8-DEA5F0C17511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37ABC0C5-3673-43C8-BE37-C2237B571913}
+	EndGlobalSection
+EndGlobal

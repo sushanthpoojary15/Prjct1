@@ -1,0 +1,51 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Dev/H2H.Physiotherapy.API/bin
+/Dev/H2H.Physiotherapy.API/obj
+/Dev/H2H.Physiotherapy.App/bin/Debug
+/Dev/H2H.Physiotherapy.App/obj
+/Dev/H2H.Physiotherapy.Data/bin
+/Dev/H2H.Physiotherapy.Data/obj
+/Dev/ToFTP
+/Dev/.vs
+/Dev/H2H.Physiotherapy.Common/bin/Debug
+/Dev/H2H.Physiotherapy.Common/obj
+/Dev/H2H.Physiotherapy.Services/bin/Debug
+/Dev/H2H.Physiotherapy.Services/obj/Debug
+
+/Dev/H2H.Physiotherapy.Data/bin/Release
+/Dev/H2H.Physiotherapy.Data/obj/Release
+/Dev/H2H.Physiotherapy.API/Properties/PublishProfiles
+/Dev/H2H.Physiotherapy.Common/bin/Release
+
+
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+packages
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+*.csproj.user
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
